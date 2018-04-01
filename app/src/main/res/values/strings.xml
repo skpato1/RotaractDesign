@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RotaractDesign</string>
+    <string name="welcome_to">
+
+WELCOME TO
+</string>
+    <string name="home">
+
+HOME
+</string>
+    <string name="clubs">
+
+CLUBS
+</string>
+    <string name="history">
+
+HISTORY
+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
